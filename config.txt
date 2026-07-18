@@ -1,1 +1,1 @@
-APP_NAME=Payment Application
+APP_NAME=Payment Platform
